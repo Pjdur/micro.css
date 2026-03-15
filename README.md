@@ -14,6 +14,7 @@ I don't like having to write styling for my projects so I just made this so I ca
 ## Usage
 
 Just put the micro.css file in your project and link it in the head of your html:
+(get the file from the Github Releases)
 
 ```html
 <head>
