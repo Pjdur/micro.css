@@ -20,3 +20,7 @@ Just put the micro.css file in your project and link it in the head of your html
     <link rel="stylesheet" href="micro.css">
 </head>
 ```
+
+## License
+
+MIT License. See [LICENSE](./LICENSE) for more details.
